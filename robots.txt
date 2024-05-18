@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MCD27.github.io//sitemap.xml
+Sitemap: https://mcd27.github.io//sitemap.xml
